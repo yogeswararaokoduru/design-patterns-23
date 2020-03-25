@@ -1,7 +1,7 @@
 import java.io.ObjectStreamException;
 import java.io.Serializable;
 /*
-* A java class that allows to create only one object per java is called Singleton.
+* A java class that allows to create only one object per jvm is called Singleton.
 *
 * */
 public class Singleton implements Serializable {
